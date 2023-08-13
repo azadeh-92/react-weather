@@ -7,7 +7,7 @@ export default function Weather() {
     temp: "31",
     wind: "6",
     hum: "80",
-    dis: "Mostly Cloudy"
+    dis: "Mostly Cloudy",
   };
   return (
     <div className="App">
@@ -85,7 +85,7 @@ export default function Weather() {
         </div>
       </div>
       <p>
-        <a href="https://github.com/azadeh-92/shecodes_project" target="_blank">
+        <a href="https://github.com/azadeh-92/react-weather" target="_blank">
           open-sourse code
         </a>{" "}
         by Azade{" "}
