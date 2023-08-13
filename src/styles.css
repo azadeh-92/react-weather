@@ -1,0 +1,174 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.timer {
+  margin-top: 10px;
+  text-align: right;
+  margin-right: 3px;
+  color: rgba(46, 42, 42, 0.7);
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+#button-addon2 {
+  background-color: rgb(119, 171, 238);
+  font-size: 18px;
+}
+
+.degree {
+  font-size: 12px;
+  position: relative;
+  top: -27px;
+  left: -5px;
+}
+.ok {
+  display: inline;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+.whole {
+  max-width: 500px;
+}
+
+.fa-magnifying-glass {
+  position: relative;
+  top: -46px;
+  left: 10px;
+  color: rgba(1, 1, 1, 0.4);
+}
+input::placeholder {
+  color: rgba(46, 42, 42, 0.7) !important;
+}
+h1 {
+  font-size: 50px;
+}
+.aval {
+  position: relative;
+  top: 10px;
+  color: rgba(46, 42, 42, 0.7);
+  font-weight: 300;
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.sevom {
+  color: rgba(46, 42, 42, 0.7);
+  font-weight: 700;
+  font-size: 50px;
+  position: relative;
+  top: -20px;
+}
+.char {
+  color: rgba(46, 42, 42, 0.7);
+  font-weight: 300;
+  font-size: 20px;
+  position: relative;
+  top: 0;
+  left: 3px;
+}
+.rooz {
+  color: rgba(46, 42, 42, 0.5);
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 70px;
+  position: relative;
+  left: 10px;
+}
+
+.dama {
+  color: #5a6aca;
+  font-weight: 700;
+  font-size: 15px;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.min {
+  color: rgba(46, 42, 42, 0.5);
+}
+.shekl {
+  position: relative;
+  top: 0px;
+  left: -5px;
+  bottom: -10px;
+}
+hr.khat {
+  position: relative;
+  top: 0px;
+  border-top: 5px solid rgb(164, 199, 231);
+}
+.hisdama {
+  color: #5cb2f7;
+  font-weight: 700;
+  font-size: 20px;
+  position: relative;
+  top: 0px;
+  margin-bottom: -5px;
+}
+
+.rec {
+  color: rgba(46, 42, 42, 0.5);
+  font-weight: 300;
+  font-size: 14px;
+  position: relative;
+  top: -5px;
+}
+.his {
+  color: rgba(46, 42, 42, 0.5);
+  font-weight: 500;
+  font-size: 17px;
+  position: relative;
+  top: 0px;
+}
+.weatherapp {
+  border: 1px solid rgba(116, 108, 108, 0.5);
+  margin-top: 10px;
+  padding-bottom: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+}
+.container {
+  max-width: 500px;
+}
+.container:first-letter {
+  text-transform: capitalize;
+}
+.detail {
+  margin-top: 10px;
+  margin-bottom: -40px;
+}
+.disabled-link {
+  cursor: default;
+  color: rgba(1, 1, 1, 0.4);
+}
+ul {
+  list-style: none;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(1, 1, 1, 0.4);
+}
+
+.condition {
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  margin-left: -40px;
+  margin-top: -15px;
+  margin-bottom: 0px;
+  color: rgba(1, 1, 1, 0.6);
+}
+li:first-letter {
+  text-transform: capitalize;
+}
+h1:first-letter {
+  text-transform: capitalize;
+}
+.row {
+  position: relative;
+  left: 10px;
+}
